@@ -1,0 +1,37 @@
+_repo: Preface-to-the-Works-of-Shakespeare--1734-_16346
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Dick, Hugh G. (Hugh Gilchrist)
+    birthdate: 1909
+    gutenberg_agent_id: '6646'
+    url: http://www.gutenberg.org/2009/agents/6646
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Theobald, Mr. (Lewis)
+    aliases:
+    - Theobald, Lewis
+    - Theobald, L. (Lewis)
+    birthdate: 1688
+    deathdate: 1744
+    gutenberg_agent_id: '6645'
+    url: http://www.gutenberg.org/2009/agents/6645
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Theobald
+description: ''
+gutenberg_issued: '2005-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16346'
+  lccn: '50006886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+title: Preface to the Works of Shakespeare (1734)
+url: http://www.gutenberg.org/ebooks/16346
